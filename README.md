@@ -44,8 +44,7 @@ of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/trickster-00/Phishing-Domain-Detection/blob/52370ccca5aa1a4b52ee37deb9497038a078ed62/LICENSE)
-- see the [LICENSE.md](https://github.com/trickster-00/Phishing-Domain-Detection/blob/52370ccca5aa1a4b52ee37deb9497038a078ed62/LICENSE) file for
+This project is licensed under the [MIT License](https://github.com/trickster-00/Phishing-Domain-Detection/blob/52370ccca5aa1a4b52ee37deb9497038a078ed62/LICENSE), see the [LICENSE.md](https://github.com/trickster-00/Phishing-Domain-Detection/blob/52370ccca5aa1a4b52ee37deb9497038a078ed62/LICENSE) file for
 details
 
 ## Acknowledgments
