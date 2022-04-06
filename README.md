@@ -12,9 +12,9 @@ The mail goal is to predict whether the domains are real or malicious.
 
 ### Prerequisites
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+Operating systems requirements for the program and other tools to run, test and push 
+- Windows 10+
+- Mac OS (10.15+)
 
 ### Installing
 
