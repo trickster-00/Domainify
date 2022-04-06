@@ -28,8 +28,9 @@ pip install -r requirements.txt
 Add additional notes to deploy this on a live system
 
 ## Built With
+![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-  
+[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 ## Contributing
 
