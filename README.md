@@ -1,6 +1,6 @@
-# Phishing Domain Detection
+# Domainify
 
-This is an end-to-end project is done under the open internship offered by [inueron](https://internship.ineuron.ai/project/board/Phishing-Domain-Detection/62445bb9ef23b90657e6db1b), Here we collect data from an open source repository and build a machine Learning model which tries to predict whether the domains are real or malicious using an user interface web application we built.
+Domainify is Phishing Domain Detector Engine which was developed as an end-to-end project under the open internship offered by [inueron](https://internship.ineuron.ai/project/board/Phishing-Domain-Detection/62445bb9ef23b90657e6db1b), Here we collect data from an open source repository and build a machine Learning model which tries to predict whether the domains are real or malicious using an user interface web application we built.
 
 ## Getting Started
 
