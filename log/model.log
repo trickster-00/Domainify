@@ -1,0 +1,28 @@
+2022-06-24 14:28:06,420:__main__:Scores obtained from 'Random forest classifier':[0.64583511 0.65146219 0.63961122 0.64268054 0.64174269]
+2022-06-24 14:28:06,424:__main__:Mean of Scores obtainned: 0.6442663483672948
+2022-06-24 14:30:06,182:__main__:Scores obtained from 'Random forest classifier'(without shuffle):[0.65257055 0.63816182 0.64054907 0.64063433 0.64447097]
+2022-06-24 14:30:06,182:__main__:Mean of Scores obtainned: 0.6432773467473782
+2022-06-24 14:49:31,829:__main__:Scores obtained from 'Random forest classifier' with StratifiedKFold:[0.64450128 0.64214373 0.64019488 0.64738124 0.65334957]
+2022-06-24 14:49:31,832:__main__:Mean of Scores obtainned: 0.6455141412599568
+2022-06-26 15:22:33,911:__main__:SVM Classifier
+2022-06-26 15:22:33,938:__main__:RF train roc-auc: 0.6350681966901396
+2022-06-26 15:22:52,894:__main__:RF test roc-auc: 0.6285301416597844
+2022-06-26 15:22:55,353:__main__:Random forests Classifier
+2022-06-26 15:22:55,371:__main__:RF train roc-auc: 0.7192036974956899
+2022-06-26 15:22:55,631:__main__:RF test roc-auc: 0.7032545207207503
+2022-06-26 15:22:56,751:__main__:Adaboost Classifier
+2022-06-26 15:22:56,765:__main__:Adaboost train roc-auc: 0.6644602171329402
+2022-06-26 15:22:56,873:__main__:Adaboost test roc-auc: 0.6541780421226322
+2022-06-26 15:22:57,645:__main__:KNNClassifier
+2022-06-26 15:22:57,660:__main__:Adaboost train roc-auc: 0.6551549282055683
+2022-06-26 15:22:57,974:__main__:Adaboost test roc-auc: 0.646358184911396
+2022-06-26 15:23:21,765:__main__:Emsemble learing results
+2022-06-26 15:23:21,773:__main__:Ensemble test roc-auc: 0.6837299251029966
+2022-06-26 15:23:24,531:__main__:Highest Threshold & Accuracy score
+2022-06-26 15:23:24,532:__main__:     thresholds  accuracy
+502    0.510245  0.637206
+548    0.465128  0.636979
+545    0.467839  0.636922
+2022-06-26 16:07:44,826:__main__:Random forests Classifier
+2022-06-26 16:07:44,839:__main__:RF train roc-auc: 0.7192378628421264
+2022-06-26 16:07:45,038:__main__:RF test roc-auc: 0.7033584412409064
