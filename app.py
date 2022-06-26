@@ -6,7 +6,7 @@ import random
 import socket
 from urllib.parse import urlparse
 
-model = pickle.load(open('rf_pred', 'rb'))
+model = pickle.load(open('data/rf_pred', 'rb'))
 
 st.title("Domainify")
 st.subheader("Phishing Domain Detector Engine")
